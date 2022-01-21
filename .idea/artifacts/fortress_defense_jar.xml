@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fortress-defense:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fortress_defense_jar</output-path>
+    <root id="archive" name="fortress-defense.jar">
+      <element id="module-output" name="fortress-defense" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
